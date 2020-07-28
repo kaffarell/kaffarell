@@ -8,6 +8,6 @@ Skills: Java / Javascript / Typescript / C
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kaffarell&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaffarell%layout=compact)](https://github.com/kaffarell/html5sortable)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaffarell&layout=compact)](https://github.com/kaffarell/html5sortable)
 
 ![Profile views](https://gpvc.arturio.dev/kaffarell)  
