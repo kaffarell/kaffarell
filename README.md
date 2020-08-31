@@ -4,6 +4,8 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kaffarell) 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kaffarell&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=kaffarell&show_icons=true)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaffarell)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views](https://gpvc.arturio.dev/kaffarell)  
