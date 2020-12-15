@@ -4,5 +4,4 @@
 
 
 ![GitHub metrics](https://github.com/kaffarell/kaffarell/blob/master/github-metrics.svg)
-![GitHub metrics calender](https://github.com/kaffarell/kaffarell/blob/master/metrics.plugin.isocalendar.fullyear.svg)
 
