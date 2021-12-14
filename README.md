@@ -1,9 +1,34 @@
 ### Hi there 👋, my name is Gabriel
 
+<div style="margin: 10px">
+  <a href="https://github.com/kaffarell/kaffarell">
+    <img src="https://github-readme-stats.vercel.app/api?username=kaffarell&show_icons=true&theme=radical" />
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/kaffarell/kaffarell">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaffarell&langs_count=8&layout=compact&theme=radical" />
+  </a>
+  <br>
+  <br>
+  
+  <div>
+    <a href="https://github.com/kaffarell/kaffarell">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kaffarell&repo=gcoin&theme=radical" />
+    </a>
+    <a  href="https://github.com/kaffarell/kaffarell">
+      <img style="margin-left: 10px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kaffarell&repo=distributed-infrastructure-test&theme=radical" />
+    </a>
+    <br>
+    <br>
+    <a  href="https://github.com/kaffarell/kaffarell">
+      <img style="margin-left: 10px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kaffarell&repo=cp&theme=radical" />
+    </a>
+    <a  href="https://github.com/kaffarell/kaffarell">
+      <img style="margin-left: 10px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=radical" />
+    </a>
+  </div>
+  
 
-![Metrics](https://metrics.lecoq.io/kaffarell?template=classic&isocalendar=1&languages=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&notable.repositories=false&config.timezone=Europe%2FBerlin)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaffarell)](https://github.com/kaffarell/kaffarell)
-
-
-![Codeforces](https://cp-logo.vercel.app/codeforces/kaffarell)
+</div>
 
