@@ -10,7 +10,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaffarell&langs_count=8&layout=compact&theme=radical" />
   </a>
   <br>
-  <br> 
-
 </div>
-
