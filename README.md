@@ -1,3 +1,3 @@
 ### Hi there 👋, my name is Gabriel
 
-fulltime rust evangelist🫡
+and I am a fulltime rust evangelist🫡
